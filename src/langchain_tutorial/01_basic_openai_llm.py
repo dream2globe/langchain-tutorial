@@ -43,8 +43,9 @@ def streaming():
     for token in answer:
         print(token.content, end="", flush=True)
 
-# 멀티모달
-def multi_model():
-    
-# System, User 프롬프트 수정
-def user_defined_prompt():
+
+# # 멀티모달
+# def multi_model():
+
+# # System, User 프롬프트 수정
+# def user_defined_prompt():

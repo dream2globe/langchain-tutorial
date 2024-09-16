@@ -1,5 +1,5 @@
 [project]
-name = "lang-chain-tutorial"
+name = "langchain-tutorial"
 version = "0.1.0"
 description = "Default template for PDM package"
 authors = [
